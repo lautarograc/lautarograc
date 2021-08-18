@@ -6,7 +6,7 @@ I study economics at the Universidad Nacional de Rosario (National University of
 
 I'm interested mostly in data science and AI, but I also like webdev (frontend especially) and, as a hobby, bussiness oriented programming (cobol)
 
-I’m currently learning python, machine learning and fundamentals
+I’m currently learning python, machine learning and webdev.
 
 I’m looking to collaborate on neural networks
 
