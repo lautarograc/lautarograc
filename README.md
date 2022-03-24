@@ -8,5 +8,5 @@ I'm interested in backend development.
 
 I’m looking to collaborate on open source projects.
 
-I'm always open to receive messages at my [linkedin](https://www.linkedin.com/in/lautaro-graciani/) and at my [mailbox](lautaro@graciani.ar)
+I'm always open to receive messages at my [linkedin](https://www.linkedin.com/in/lautaro-graciani/) and at my [mailbox](mailto:lautaro@graciani.ar)
 
