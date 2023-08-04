@@ -4,7 +4,7 @@
 
 **I'm Lautaro Graciani, a computer science student with a rising expertise on web development.**
 
-*I love to be a driver of value. I enjoy designing, coding and developing things that will bring tangible valuable to society. On the other hand, I hate losing my time in reinventing the wheel. I try to focus more on the "what" than in the "how". And building something new is almost always the answer to the "what".*
+*I love to be a driver of value. I enjoy designing, coding and developing things that will bring tangible value to society. On the other hand, I hate losing my time in reinventing the wheel. I try to focus more on the "what" than in the "how". And building something new is almost always the answer to the "what".*
 
 As part of my stack, I heavily prefer working with Ruby on Rails. I usually find the coupling of a Rails API with a SPA framework (especially with React) to deliver a great and probably unmatched development experience, but I'm following the development of [hotwire](https://hotwired.dev/) with great interest.
 
